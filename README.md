@@ -1,6 +1,6 @@
-# On Oversampling via GANs under Different Data Difficult Factors - LIDTA 2021
+# Leveraging CGAN for Addressing Class Imbalance, Small Sample Size, and Data Difficulty Factors in Cybersecurity and Imagery Datasets
 
-This repository contains all the code used in the experiments carried out in the paper *""On Oversampling via Generative Adversarial Networks under Different Data Difficult Factors " International Workshop on Learning with Imbalanced Domains: Theory and Applications. PMLR, 2021"* [1].
+This repository contains all the code used in the experiments carried out in the papers *Using CGAN to Deal with Class Imbalance and Small Sample Size in Cybersecurity Problems* [1] and *On Oversampling via Generative Adversarial Networks under Different Data Difficult Factors* [2].
 
 dataset-builder.ipynb, utils.ipynb, and tester.ipynb are the necessary files to redo all the tests conducted in the paper. 
 
@@ -14,4 +14,5 @@ In order to reproduce the results in Google Colab one needs to:
 *****
 
 ### References
-[1] Nazari, Ehsan and  Branco, Paula "On Oversampling via Generative Adversarial Networks under Different Data Difficult Factors " International Workshop on Learning with Imbalanced Domains: Theory and Applications. PMLR, 2021.
+[1] Nazari, Ehsan, Paula Branco, and Guy-Vincent Jourdan. "Using cgan to deal with class imbalance and small sample size in cybersecurity problems." 2021 18th International Conference on Privacy, Security and Trust (PST). IEEE, 2021.
+[2] Nazari, Ehsan, and Paula Branco. "On oversampling via generative adversarial networks under different data difficulty factors." Third international workshop on learning with imbalanced domains: Theory and applications. PMLR, 2021.
